@@ -1,0 +1,43 @@
+#people-list {
+    width: 80%;
+    min-width: 35rem;
+    max-width: 60rem;
+    height: 15rem;
+    /* vertical scroll */
+    /* overflow-x: auto; */
+}
+
+/* .person-card {
+    border: 0.1rem solid black;
+    width: 20%;
+    margin: 1rem;
+    padding: 1rem;
+} */
+
+/* #special {
+    width: 50%;
+} */
+
+/* horizontal center trick */
+/* #people-list {
+    margin: 0 auto;
+} */
+
+/* remove list styles */
+/* ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+} */
+
+/* flexbox on the parent */
+/* #people-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+} */
+
+/* fix annoying overlap */
+/* .person-card h1 {
+    margin: 0;
+} */
